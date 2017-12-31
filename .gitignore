@@ -84,6 +84,7 @@ celerybeat-schedule
 env/
 venv/
 ENV/
+frankcardyenv/
 
 # Spyder project settings
 .spyderproject
@@ -97,3 +98,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+.DS_Store
+db.sqlite3
+frankcardy/settings.py
